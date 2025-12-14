@@ -1,0 +1,30 @@
+//
+// Created by 陆熠辰 on 25-11-16.
+//
+#include <iostream>
+#include <vector>
+using namespace std;
+int n, k;
+vector<int> v;
+int vis[15];
+void dfs(int u) {
+    if (u == k + 1) {
+        for (auto c : v) {
+            cout << c << " ";
+        }
+        cout << endl;
+        return;
+    }
+    for (int i = 1;i <= n;i++) {
+        if (vis[i]) continue;
+        vis[i] = 1; v.push_back(i);
+        dfs(u + 1);
+        vis[i] = 0; v.pop_back();
+    }
+}
+
+int main() {
+    cin >> n >> k;
+    dfs(1);
+    return 0;
+}
