@@ -1,41 +1,37 @@
-//
-// Created by 陆熠辰 on 25-12-10.
-//
 #include <iostream>
 #include <vector>
+#define int long long
 using namespace std;
 
-const int MaxN = 1e5+5;
-vector<int> v[MaxN];
+const int MaxN = 2e6 + 5;
+vector<int> vec[MaxN];
 int n, m;
-int vis[MaxN];
+int school[MaxN], cnt1, cnt2;
 
-void dfs(int u, int &gakkou_ichi, int &gakkou_ni, bool col) {
-    vis[u] = 1;
-    if (col) gakkou_ichi++;
-    else gakkou_ni++;
-    for (int v : v[u]) {
-        if (!vis[v]) dfs(v, gakkou_ichi, gakkou_ni, !col);
+void dfs(int n, int g) {
+    school[n] = g;
+    if (g == 1) cnt1++;
+    else cnt2++;
+    for (auto v : vec[n]) {
+        if (!school[v]) dfs(v, 3 - g);
     }
 }
 
-int main() {
+signed main() {
     cin >> n >> m;
-    while (m--) {
-        int a, b;
-        cin >> a >> b;
-        v[a].push_back(b);
-        v[b].push_back(a);
+    for (int i = 1;i <= m;i++) {
+        int u, v;
+        cin >> u >> v;
+        vec[u].push_back(v);
+        vec[v].push_back(u);
     }
-    int gakkou_ichi = 0, gakkou_ni = 0;
+    int down = 0, up = 0;
     for (int i = 1; i <= n; i++) {
-        if (!vis[i]) {
-            int gakkou_a = 0, gakkou_b = 0;
-            dfs(i, gakkou_a, gakkou_b, true);
-            gakkou_ichi += min(gakkou_a, gakkou_b);
-            gakkou_ni += max(gakkou_a, gakkou_b);
-        }
+        cnt1 = cnt2 = 0;
+        if (!school[i]) dfs(i, 1);
+        down += min(cnt1, cnt2);
+        up += max(cnt1, cnt2);
     }
-    cout << gakkou_ichi << " " << gakkou_ni << endl;
+    cout << down << " " << up;
     return 0;
 }
