@@ -69,4 +69,8 @@ add_executable(luogu U300331.cpp
         AT_abc376_d.cpp
         U554341.cpp
         U445086.cpp
+        "atcoder abc 436/AT_abc436_a.cpp"
+        "atcoder abc 436/AT_abc436_b.cpp"
+        "atcoder abc 436/AT_abc436_c.cpp"
+        "atcoder abc 436/AT_abc436_d.cpp"
 )
