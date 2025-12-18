@@ -6,33 +6,40 @@
 using namespace std;
 
 const int MaxN = 1e5 + 5;
+string s, ans;
+vector<int> vec[MaxN];
+int n, q;
+int vis[MaxN];
 
-vector<int> v[MaxN];
-int fa[MaxN], used[MaxN], changed[MaxN], n, q, op;
-string s;
-
-int dfs(int u) {
-    if (changed[u] > 0) return changed[u];
-    changed[u] = used[u] + dfs(fa[u]);
-    return changed[u];
+void dfs(int u, int fa, int col) {
+    col ^= vis[u];
+    if (col) {
+        if (s[u] == '1') s[u] = '0';
+        else s[u] = '1';
+    }
+    for (auto v : vec[u]) {
+        if (v != fa) dfs(v, u, col);
+    }
 }
 
 int main() {
+    cin.tie(nullptr)->sync_with_stdio(false);
     cin >> n;
-    for (int i = 2; i <= n; i++) cin >> fa[i];
-    cin >> s >> q;
-    for (int i = 1; i <= q; i++) {
-        cin >> op;
-        used[op]++;
+    for (int i = 2; i <= n; i++) {
+        int a;
+        cin >> a;
+        vec[a].push_back(i);
     }
-    changed[1] = used[1] + 2;
-    for (int i = 1; i <= n; i++) {
-        if (!changed[i]) dfs(i);
+    cin >> s;
+    s = " " + s;
+    cin >> q;
+    while (q--) {
+        int x;
+        cin >> x;
+        vis[x] ^= 1;
     }
-    for (int i = 0;i < n;i++) {
-        bool x = s[i] - '0';
-        if (changed[i+1] % 2 == 0) cout << x;
-        else cout << !x;
-    }
+    dfs(1, -1, 0);
+    ans = s.substr(1, n);
+    cout << ans << '\n';
     return 0;
 }
