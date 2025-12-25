@@ -84,4 +84,9 @@ add_executable(luogu U300331.cpp
         AT_dp_c.cpp
         AT_abc365_d.cpp
         AT_dp_d.cpp
+        U478177.cpp
+        U624707.cpp
+        P14075.cpp
+        P13015.cpp
+        P11963.cpp
 )
