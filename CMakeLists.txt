@@ -114,4 +114,5 @@ add_executable(luogu U300331.cpp
         "atcoder dp/AT_dp_h.cpp"
         "atcoder dp/AT_dp_b.cpp"
         U525270.cpp
+        B3637.cpp
 )
