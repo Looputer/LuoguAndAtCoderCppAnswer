@@ -81,12 +81,37 @@ add_executable(luogu U300331.cpp
         "atcoder abc 437/AT_abc437_d.cpp"
         P1216.cpp
         U509740.cpp
-        AT_dp_c.cpp
+        "atcoder dp/AT_dp_c.cpp"
         AT_abc365_d.cpp
-        AT_dp_d.cpp
+        "atcoder dp/AT_dp_d.cpp"
         U478177.cpp
         U624707.cpp
         P14075.cpp
         P13015.cpp
         P11963.cpp
+        "atcoder dp/AT_dp_e.cpp"
+        B3644.cpp
+        P2712.cpp
+        P1807.cpp
+        AT_abc238_e.cpp
+        P11280.cpp
+        AT_abc368_d.cpp
+        AT_abc373_d.cpp
+        "atcoder abc 438/AT_abc438_a.cpp"
+        P3916.cpp
+        B3637.cpp
+        U522833.cpp
+        "atcoder dp/AT_dp_f.cpp"
+        AT_abc291_d.cpp
+        AT_abc306_d.cpp
+        "atcoder dp/AT_dp_a.cpp"
+        AT_abc266_d.cpp
+        "atcoder abc 439/AT_abc439_a.cpp"
+        "atcoder abc 439/AT_abc439_b.cpp"
+        "atcoder abc 439/AT_abc439_c.cpp"
+        "atcoder abc 439/AT_abc439_d.cpp"
+        "atcoder abc 439/AT_abc439_e.cpp"
+        "atcoder dp/AT_dp_h.cpp"
+        "atcoder dp/AT_dp_b.cpp"
+        U525270.cpp
 )
