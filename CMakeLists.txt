@@ -115,4 +115,30 @@ add_executable(luogu U300331.cpp
         "atcoder dp/AT_dp_b.cpp"
         U525270.cpp
         B3637.cpp
+        T376044.cpp
+        T370645.cpp
+        T376050.cpp
+        T376052.cpp
+        P1077.cpp
+        P1507.cpp
+        T376048.cpp
+        T376053.cpp
+        T376047.cpp
+        T376051.cpp
+        U409376.cpp
+        P1164.cpp
+        P1616.cpp
+        P2725.cpp
+        P2722.cpp
+        AT_abc364_e.cpp
+        P1049.cpp
+        P1679.cpp
+        P1832.cpp
+        P1926.cpp
+        P1575.cpp
+        AT_abc321_f.cpp
+        P3371.cpp
+        P3385.cpp
+        U447511.cpp
+        P1339.cpp
 )
