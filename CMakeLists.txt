@@ -145,4 +145,10 @@ add_executable(luogu U300331.cpp
         P4141.cpp
         U447845.cpp
         header.h
+        B3647.cpp
+        B3611.cpp
+        P2419.cpp
+        P6175.cpp
+        AT_abc243_e.cpp
+        P1119.cpp
 )
