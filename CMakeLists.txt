@@ -151,4 +151,6 @@ add_executable(luogu U300331.cpp
         P6175.cpp
         AT_abc243_e.cpp
         P1119.cpp
+        AT_abc375_f.cpp
+        P3905.cpp
 )
