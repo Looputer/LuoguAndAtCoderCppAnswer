@@ -141,4 +141,8 @@ add_executable(luogu U300331.cpp
         P3385.cpp
         U447511.cpp
         P1339.cpp
+        P1828.cpp
+        P4141.cpp
+        U447845.cpp
+        header.h
 )
