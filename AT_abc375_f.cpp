@@ -8,72 +8,84 @@
 #define pii pair<int, pair<int, int> >
 using namespace std;
 
+const int INF = 1e16, MaxN = 1e6+5;
 struct node {
     int u, v, w;
-}a[305];
-const int INF = 0x3f3f3f3f3f3f3f3f, MaxN = 2e5+5;
+}a[MaxN];
+struct question {
+    int op, x, y;
+}questions[MaxN];
 int n, m, q;
 int dp[305][305];
-pii question[MaxN];
-int flag[305];
+int flag[MaxN];
 
+void chmin(int &a, int b) {
+    a = min(a, b);
+}
 signed main() {
     memset(dp, 0x3f, sizeof(dp));
     ios::sync_with_stdio(0);
     cin.tie(0);
     cin >> n >> m >> q;
+    for (int i = 1; i <= n; i++) {
+        dp[i][i] = 0;
+    }
     for (int i = 1; i <= m; i++) {
         int u, v, w;
         cin >> u >> v >> w;
         a[i] = {u, v, w};
     }
     for (int i = 1; i <= q; i++) {
-        int op, x, y;
-        cin >> op >> x;
+        int op;
+        cin >> op;
         if (op == 1) {
+            int x;
+            cin >> x;
             flag[x] = 1;
-            question[i] = {op, {x, 0}};
+            questions[i] = {1, x, 0};
         }
         else {
-            cin >> y;
-            question[i] = {op, {x, y}};
+            int x, y;
+            cin >> x >> y;
+            questions[i] = {2, x, y};
         }
     }
     for (int i = 1; i <= m; i++) {
-        auto [u, v, w] = a[i];
         if (flag[i]) continue;
+        auto [u, v, w] = a[i];
         dp[u][v] = dp[v][u] = w;
     }
     for (int k = 1; k <= n; k++) {
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
-                dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j]);
+                if (dp[i][j] > dp[i][k] + dp[k][j]) {
+                    dp[i][j] = dp[i][k] + dp[k][j];
+                }
             }
         }
     }
     vector<int> ans;
-    while (q--) {
-        auto [op, p] = question[q];
-        auto [x, y] = p;
+    for (int i = q; i >= 1; i--) {
+        auto [op, x, y] = questions[i];
         if (op == 2) {
-            if (dp[x][y] == INF) {
-                ans.push_back(-1);
-                continue;
-            }
-            ans.push_back(x);
+            int res = dp[x][y];
+            if (res >= INF / 2) res = -1;
+            ans.push_back(res);
         }
         else {
             auto [u, v, w] = a[x];
-            dp[u][v] = min(dp[u][v], w);
-            dp[v][u] = min(dp[v][u], w);
-            for (int i = 1; i <= n; i++) {
+            if (w < dp[u][v]) {
+                dp[u][v] = min(dp[u][v], w);
+                dp[v][u] = min(dp[v][u], w);
                 for (int j = 1; j <= n; j++) {
-                    dp[i][j] = min(dp[i][j], min(dp[i][u] + dp[u][v] + dp[v][j], dp[i][v] + dp[v][u] + dp[u][j]));
+                    for (int k = 1; k <= n; k++) {
+                        dp[j][k] = min(dp[j][k], min(dp[j][u] + dp[u][v] + dp[v][k], dp[j][v] + dp[v][u] + dp[u][k]));
+                    }
                 }
             }
         }
     }
     reverse(ans.begin(), ans.end());
-    for (auto c : ans) cout << c << " ";
+    for (auto c : ans) cout << c << endl;
     return 0;
 }

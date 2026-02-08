@@ -11,7 +11,7 @@ int dp[305][305], map[305][305];
 
 signed main() {
     ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+    cin.tie(0);
     cin >> n >> m;
     memset(dp, 0x3f, sizeof(dp));
     for (int i = 1; i <= m; i++) {
