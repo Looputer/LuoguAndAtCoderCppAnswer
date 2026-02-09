@@ -153,4 +153,8 @@ add_executable(luogu U300331.cpp
         P1119.cpp
         AT_abc375_f.cpp
         P3905.cpp
+        normal_dijkstra.cpp
+        P4779.cpp
+        P3003.cpp
+        U632129.cpp
 )
