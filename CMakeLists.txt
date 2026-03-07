@@ -157,4 +157,24 @@ add_executable(luogu U300331.cpp
         P4779.cpp
         P3003.cpp
         U632129.cpp
+        AT_abc395_e.cpp
+        AT_abc277_e.cpp
+        P4568.cpp
+        P2865.cpp
+        P3008.cpp
+        AT_abc164_e.cpp
+        AT_abc305_f.cpp
+        AT_abc303_e.cpp
+        AT_abc354_c.cpp
+        AT_abc364_c.cpp
+        AT_abc370_c.cpp
+        U524631.cpp
+        U524656.cpp
+        P2249.cpp
+        U447586.cpp
+        P14920.cpp
+        huffman.cpp
+        kruskal.cpp
+        binary_search_tree.cpp
+        grey_code.cpp
 )
