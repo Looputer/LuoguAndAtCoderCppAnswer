@@ -177,4 +177,15 @@ add_executable(luogu U300331.cpp
         kruskal.cpp
         binary_search_tree.cpp
         grey_code.cpp
+        P1352.cpp
+        P1122.cpp
+        P14919.cpp
+        AT_abc448_d.cpp
+        P11248.cpp
+        P11375.cpp
+        P11246.cpp
+        P10377.cpp
+        P10250.cpp
+        P10262.cpp
+        unknown_gesp20260301.cpp
 )
