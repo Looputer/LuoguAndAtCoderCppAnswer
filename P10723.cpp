@@ -1,40 +1,52 @@
-//
-// Created by 陆熠辰 on 25-12-18.
-//
 #include <iostream>
 #include <vector>
+#define int long long
 using namespace std;
 
-const int MaxN = 1e5 + 5;
-vector<int> vec[MaxN];
-int color[MaxN], vis[MaxN];
-int n, ans;
+const int MaxN = 1e5+5;
+int n, a[MaxN], deg[MaxN];
+vector<int> edge[MaxN];
+bool removed[MaxN];
 
-bool dfs(int u, int fa) {
-    bool f = 0;
-    for (auto v : vec[u]) {
-        if (v != fa && dfs(v, u)) f = 1;
-    }
-    if (!color[u] && f) ans++;
-    return color[u] || f;
-}
-
-int main() {
+signed main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
     cin >> n;
-    for (int i = 1;i <= n;i++) cin >> color[i];
-    for (int i = 2;i <= n;i++) {
+    int cnt = 0;
+    for (int i = 1; i <= n; i++) {
+        cin >> a[i];
+        if (a[i] == 1) cnt++;
+    }
+    if (cnt <= 1) {
+        cout << 0 << endl;
+        return 0;
+    }
+    for (int i = 1; i < n; i++) {
         int u, v;
         cin >> u >> v;
-        vec[u].push_back(v);
-        vec[v].push_back(u);
+        edge[u].push_back(v);
+        edge[v].push_back(u);
+        deg[u]++;
+        deg[v]++;
     }
-    int k = -1;
-    for (int i = 1;i <= n;i++) {
-        if (color[i]) {
-            k = i;
-            break;
+    queue<int> q;
+    for (int i = 1; i <= n; i++) {
+        if (deg[i] == 1 && a[i] == 0) q.push(i);
+    }
+    while (!q.empty()) {
+        int u = q.front();
+        q.pop();
+        removed[u] = true;
+        for (auto v : edge[u]) {
+            if (removed[v]) continue;
+            deg[v]--;
+            if (deg[v] == 1 && a[v] == 0) q.push(v);
         }
     }
-    dfs(k, 0);
+    int ans = 0;
+    for (int i = 1; i <= n; i++) {
+        if (!removed[i] && a[i] == 0) ans++;
+    }
     cout << ans << endl;
+    return 0;
 }

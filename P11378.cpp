@@ -14,18 +14,14 @@ vector<int> v[MaxN];
 int a[MaxN], dp[MaxN];
 int n;
 
-bool cmp(int a, int b) {
-    return a > b;
-}
 
-void dfs(int u, int fa) {
-    if (dp[u]) return;
-    dp[u] = 1;
-    for (auto c : v[u]) {
-        if (c == fa) continue;
-        if (a[c] < a[u]) dfs(c, u);
-        dp[u] += dp[c];
+int dfs(int u) {
+    if (dp[u] != 0) return dp[u];
+    int res = 1;
+    for (auto v : v[u]) {
+        if (a[v] < a[u]) res += dfs(v);
     }
+    return dp[u] = res;
 }
 
 int main() {
@@ -39,10 +35,10 @@ int main() {
         v[a].push_back(b);
         v[b].push_back(a);
     }
+    int maxn = 0;
     for (int i = 1;i <= n;i++) {
-        if (dp[i]) continue;
-        dfs(i, -1);
+        maxn = max(maxn, dfs(i));
     }
-    sort(dp+1, dp+n+1, cmp);
-    cout << dp[1] << endl;
+    cout << maxn << endl;
+    return 0;
 }
