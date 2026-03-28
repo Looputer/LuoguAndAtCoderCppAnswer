@@ -10,7 +10,7 @@ struct State {
     int h;
     bool full, comp;
 };
-const int MaxN = 1e3+5;
+const int MaxN = 1e5+5;
 int l[MaxN], r[MaxN];
 int ans, n;
 
