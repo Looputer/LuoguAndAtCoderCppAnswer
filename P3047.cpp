@@ -8,17 +8,17 @@ using namespace std;
 
 const int MaxN = 1e5+5;
 int n, k;
-int c[MaxN];
+int a[MaxN];
 vector<int> edge[MaxN];
 int dp[MaxN][25];
 
 void dfs1(int u, int fa) {
-    dp[u][0] = c[u];
+    dp[u][0] = a[u];
     for (auto v : edge[u]) {
         if (v == fa) continue;
         dfs1(v, u);
-        for (int j = 1; j <= k; j++) {
-            dp[u][j] += dp[v][j-1];
+        for (int i = 1; i <= k; i++) {
+            dp[u][i] += dp[v][i-1];
         }
     }
 }
@@ -26,13 +26,10 @@ void dfs1(int u, int fa) {
 void dfs2(int u, int fa) {
     for (auto v : edge[u]) {
         if (v == fa) continue;
-        for (int j = k; j >= 1; j--) {
-            if (j >= 2) {
-                dp[v][j] += dp[u][j-1] - dp[v][j-2];
-            } else {
-                dp[v][j] += dp[u][j-1];
-            }
+        for (int i = k; i >= 2; i--) {
+            dp[v][i] += dp[u][i-1] - dp[v][i-2];
         }
+        dp[v][1] += dp[u][0];
         dfs2(v, u);
     }
 }
@@ -48,15 +45,15 @@ signed main() {
         edge[u].push_back(v);
         edge[v].push_back(u);
     }
-    for (int i = 1; i <= n; i++) cin >> c[i];
+    for (int i = 1; i <= n; i++) cin >> a[i];
     dfs1(1, 0);
     dfs2(1, 0);
     for (int i = 1; i <= n; i++) {
-        int ans = 0;
+        int sum = 0;
         for (int j = 0; j <= k; j++) {
-            ans += dp[i][j];
+            sum += dp[i][j];
         }
-        cout << ans << '\n';
+        cout << sum << endl;
     }
     return 0;
 }
