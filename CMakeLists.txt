@@ -188,4 +188,21 @@ add_executable(luogu U300331.cpp
         P10250.cpp
         P10262.cpp
         unknown_gesp20260301.cpp
+        P15801.cpp
+        P2016.cpp
+        "atcoder dp/AT_dp_p.cpp"
+        P2458.cpp
+        U510996.cpp
+        P3478.cpp
+        P2986.cpp
+        P10962.cpp
+        P3047.cpp
+        P10974.cpp
+        "atcoder dp/AT_dp_i.cpp"
+        "atcoder dp/AT_dp_j.cpp"
+        codeforce/CF104396F.cpp
+        codeforce/CF24D.cpp
+        UVA11021.cpp
+        P2014.cpp
+        P1273.cpp
 )
