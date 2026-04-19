@@ -445,6 +445,864 @@ build CMakeFiles/luogu.dir/U445086.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /U
   OBJECT_DIR = CMakeFiles/luogu.dir
   OBJECT_FILE_DIR = CMakeFiles/luogu.dir
 
+build CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_a.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 436/AT_abc436_a.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_436
+
+build CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_b.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 436/AT_abc436_b.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_b.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_436
+
+build CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 436/AT_abc436_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_436
+
+build CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 436/AT_abc436_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_436
+
+build CMakeFiles/luogu.dir/P5663.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P5663.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P5663.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10723.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10723.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10723.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_A.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 437/AT_abc437_A.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_A.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_437
+
+build CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_b.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 437/AT_abc437_b.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_b.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_437
+
+build CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 437/AT_abc437_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_437
+
+build CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 437/AT_abc437_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_437
+
+build CMakeFiles/luogu.dir/P1216.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1216.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1216.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U509740.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U509740.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U509740.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/AT_abc365_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc365_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc365_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/U478177.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U478177.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U478177.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U624707.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U624707.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U624707.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P14075.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P14075.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P14075.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P13015.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P13015.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P13015.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P11963.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P11963.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P11963.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/B3644.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/B3644.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/B3644.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2712.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2712.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2712.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1807.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1807.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1807.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc238_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc238_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc238_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P11280.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P11280.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P11280.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc368_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc368_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc368_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc373_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc373_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc373_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_abc_438/AT_abc438_a.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 438/AT_abc438_a.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_438/AT_abc438_a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_438
+
+build CMakeFiles/luogu.dir/P3916.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3916.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3916.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/B3637.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/B3637.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/B3637.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U522833.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U522833.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U522833.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_f.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_f.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/AT_abc291_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc291_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc291_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc306_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc306_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc306_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_a.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_a.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/AT_abc266_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc266_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc266_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_a.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 439/AT_abc439_a.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_a.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_439
+
+build CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_b.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 439/AT_abc439_b.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_b.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_439
+
+build CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 439/AT_abc439_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_439
+
+build CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 439/AT_abc439_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_439
+
+build CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ abc$ 439/AT_abc439_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_abc_439
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_h.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_h.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_h.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_b.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_b.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_b.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/U525270.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U525270.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U525270.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376044.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376044.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376044.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T370645.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T370645.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T370645.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376050.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376050.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376050.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376052.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376052.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376052.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1077.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1077.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1077.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1507.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1507.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1507.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376048.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376048.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376048.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376053.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376053.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376053.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376047.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376047.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376047.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T376051.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T376051.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T376051.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U409376.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U409376.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U409376.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1164.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1164.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1164.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1616.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1616.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1616.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2725.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2725.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2725.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2722.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2722.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2722.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc364_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc364_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc364_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1049.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1049.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1049.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1679.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1679.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1679.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1832.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1832.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1832.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1926.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1926.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1926.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1575.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1575.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1575.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc321_f.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc321_f.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc321_f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3371.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3371.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3371.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3385.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3385.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3385.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U447511.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U447511.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U447511.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1339.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1339.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1339.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1828.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1828.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1828.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P4141.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P4141.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P4141.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U447845.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U447845.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U447845.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/B3647.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/B3647.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/B3647.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/B3611.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/B3611.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/B3611.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2419.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2419.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2419.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P6175.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P6175.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P6175.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc243_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc243_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc243_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1119.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1119.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1119.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc375_f.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc375_f.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc375_f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3905.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3905.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3905.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/normal_dijkstra.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/normal_dijkstra.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/normal_dijkstra.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P4779.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P4779.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P4779.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3003.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3003.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3003.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U632129.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U632129.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U632129.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc395_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc395_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc395_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc277_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc277_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc277_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P4568.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P4568.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P4568.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2865.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2865.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2865.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3008.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3008.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3008.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc164_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc164_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc164_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc305_f.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc305_f.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc305_f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc303_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc303_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc303_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc354_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc354_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc354_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc364_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc364_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc364_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc370_c.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc370_c.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc370_c.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U524631.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U524631.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U524631.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U524656.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U524656.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U524656.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2249.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2249.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2249.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U447586.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U447586.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U447586.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P14920.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P14920.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P14920.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/huffman.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/huffman.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/huffman.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/kruskal.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/kruskal.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/kruskal.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/binary_search_tree.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/binary_search_tree.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/binary_search_tree.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/grey_code.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/grey_code.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/grey_code.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1352.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1352.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1352.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1122.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1122.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1122.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P14919.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P14919.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P14919.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc448_d.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc448_d.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc448_d.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P11248.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P11248.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P11248.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P11375.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P11375.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P11375.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P11246.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P11246.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P11246.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10377.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10377.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10377.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10250.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10250.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10250.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10262.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10262.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10262.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/unknown_gesp20260301.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/unknown_gesp20260301.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/unknown_gesp20260301.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P15801.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P15801.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P15801.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2016.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2016.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2016.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_p.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_p.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_p.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/P2458.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2458.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2458.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/U510996.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U510996.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U510996.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3478.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3478.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3478.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2986.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2986.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2986.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10962.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10962.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10962.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P3047.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P3047.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P3047.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P10974.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P10974.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P10974.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_i.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_i.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_i.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_j.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_j.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_j.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/codeforce/CF104396F.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/codeforce/CF104396F.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/codeforce/CF104396F.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/codeforce
+
+build CMakeFiles/luogu.dir/codeforce/CF24D.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/codeforce/CF24D.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/codeforce/CF24D.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/codeforce
+
+build CMakeFiles/luogu.dir/UVA11021.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/UVA11021.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/UVA11021.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2014.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2014.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2014.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1273.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1273.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1273.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P2015.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P2015.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P2015.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P9414.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P9414.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P9414.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P1131.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P1131.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P1131.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc239_e.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc239_e.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc239_e.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/AT_abc259_f.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/AT_abc259_f.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/AT_abc259_f.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/P13085.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/P13085.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/P13085.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/atcoder_dp/AT_dp_s.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/atcoder$ dp/AT_dp_s.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/atcoder_dp/AT_dp_s.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir/atcoder_dp
+
+build CMakeFiles/luogu.dir/U584945.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/U584945.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/U584945.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
+build CMakeFiles/luogu.dir/T322620.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /Users/luyichen/CLionProjects/luogu/T322620.cpp || cmake_object_order_depends_target_luogu
+  DEP_FILE = CMakeFiles/luogu.dir/T322620.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/luogu.dir
+  OBJECT_FILE_DIR = CMakeFiles/luogu.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target luogu
@@ -453,7 +1311,7 @@ build CMakeFiles/luogu.dir/U445086.cpp.o: CXX_COMPILER__luogu_unscanned_Debug /U
 #############################################
 # Link the executable luogu
 
-build luogu: CXX_EXECUTABLE_LINKER__luogu_Debug CMakeFiles/luogu.dir/U300331.cpp.o CMakeFiles/luogu.dir/U300333.cpp.o CMakeFiles/luogu.dir/U300336.cpp.o CMakeFiles/luogu.dir/U300329.cpp.o CMakeFiles/luogu.dir/U301629.cpp.o CMakeFiles/luogu.dir/U301632.cpp.o CMakeFiles/luogu.dir/U306965.cpp.o CMakeFiles/luogu.dir/P1464.cpp.o CMakeFiles/luogu.dir/P1596.cpp.o CMakeFiles/luogu.dir/U303042.cpp.o CMakeFiles/luogu.dir/P1825.cpp.o CMakeFiles/luogu.dir/AT_abc383_c.cpp.o CMakeFiles/luogu.dir/P1588.cpp.o CMakeFiles/luogu.dir/AT_abc405_d.cpp.o CMakeFiles/luogu.dir/U303045.cpp.o CMakeFiles/luogu.dir/P14360.cpp.o CMakeFiles/luogu.dir/P14357.cpp.o CMakeFiles/luogu.dir/U308328.cpp.o CMakeFiles/luogu.dir/U308329.cpp.o CMakeFiles/luogu.dir/P14358.cpp.o CMakeFiles/luogu.dir/U308330.cpp.o CMakeFiles/luogu.dir/U308331.cpp.o CMakeFiles/luogu.dir/P2367.cpp.o CMakeFiles/luogu.dir/AT_abc408_c.cpp.o CMakeFiles/luogu.dir/B4192.cpp.o CMakeFiles/luogu.dir/P5117.cpp.o CMakeFiles/luogu.dir/AT_abc356_c.cpp.o CMakeFiles/luogu.dir/AT_abc367_c.cpp.o CMakeFiles/luogu.dir/B3623.cpp.o CMakeFiles/luogu.dir/U303047.cpp.o CMakeFiles/luogu.dir/U303046.cpp.o CMakeFiles/luogu.dir/P2036.cpp.o CMakeFiles/luogu.dir/P1706.cpp.o CMakeFiles/luogu.dir/U303048.cpp.o CMakeFiles/luogu.dir/B3643.cpp.o CMakeFiles/luogu.dir/T320770.cpp.o CMakeFiles/luogu.dir/T320773.cpp.o CMakeFiles/luogu.dir/T320774.cpp.o CMakeFiles/luogu.dir/T320772.cpp.o CMakeFiles/luogu.dir/T320791.cpp.o CMakeFiles/luogu.dir/U282420.cpp.o CMakeFiles/luogu.dir/AT_abc389_c.cpp.o CMakeFiles/luogu.dir/AT_abc404_C.cpp.o CMakeFiles/luogu.dir/P1330.cpp.o CMakeFiles/luogu.dir/U433472.cpp.o CMakeFiles/luogu.dir/AT_abc270_c.cpp.o CMakeFiles/luogu.dir/B4016.cpp.o CMakeFiles/luogu.dir/AT_abc361_e.cpp.o CMakeFiles/luogu.dir/P11378.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_a.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_b.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_c.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_d.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_e.cpp.o CMakeFiles/luogu.dir/P10722.cpp.o CMakeFiles/luogu.dir/P10109.cpp.o CMakeFiles/luogu.dir/P11962.cpp.o CMakeFiles/luogu.dir/P10378.cpp.o CMakeFiles/luogu.dir/P13016.cpp.o CMakeFiles/luogu.dir/P14076.cpp.o CMakeFiles/luogu.dir/P14077.cpp.o CMakeFiles/luogu.dir/U628622.cpp.o CMakeFiles/luogu.dir/P1144.cpp.o CMakeFiles/luogu.dir/AT_abc376_d.cpp.o CMakeFiles/luogu.dir/U554341.cpp.o CMakeFiles/luogu.dir/U445086.cpp.o
+build luogu: CXX_EXECUTABLE_LINKER__luogu_Debug CMakeFiles/luogu.dir/U300331.cpp.o CMakeFiles/luogu.dir/U300333.cpp.o CMakeFiles/luogu.dir/U300336.cpp.o CMakeFiles/luogu.dir/U300329.cpp.o CMakeFiles/luogu.dir/U301629.cpp.o CMakeFiles/luogu.dir/U301632.cpp.o CMakeFiles/luogu.dir/U306965.cpp.o CMakeFiles/luogu.dir/P1464.cpp.o CMakeFiles/luogu.dir/P1596.cpp.o CMakeFiles/luogu.dir/U303042.cpp.o CMakeFiles/luogu.dir/P1825.cpp.o CMakeFiles/luogu.dir/AT_abc383_c.cpp.o CMakeFiles/luogu.dir/P1588.cpp.o CMakeFiles/luogu.dir/AT_abc405_d.cpp.o CMakeFiles/luogu.dir/U303045.cpp.o CMakeFiles/luogu.dir/P14360.cpp.o CMakeFiles/luogu.dir/P14357.cpp.o CMakeFiles/luogu.dir/U308328.cpp.o CMakeFiles/luogu.dir/U308329.cpp.o CMakeFiles/luogu.dir/P14358.cpp.o CMakeFiles/luogu.dir/U308330.cpp.o CMakeFiles/luogu.dir/U308331.cpp.o CMakeFiles/luogu.dir/P2367.cpp.o CMakeFiles/luogu.dir/AT_abc408_c.cpp.o CMakeFiles/luogu.dir/B4192.cpp.o CMakeFiles/luogu.dir/P5117.cpp.o CMakeFiles/luogu.dir/AT_abc356_c.cpp.o CMakeFiles/luogu.dir/AT_abc367_c.cpp.o CMakeFiles/luogu.dir/B3623.cpp.o CMakeFiles/luogu.dir/U303047.cpp.o CMakeFiles/luogu.dir/U303046.cpp.o CMakeFiles/luogu.dir/P2036.cpp.o CMakeFiles/luogu.dir/P1706.cpp.o CMakeFiles/luogu.dir/U303048.cpp.o CMakeFiles/luogu.dir/B3643.cpp.o CMakeFiles/luogu.dir/T320770.cpp.o CMakeFiles/luogu.dir/T320773.cpp.o CMakeFiles/luogu.dir/T320774.cpp.o CMakeFiles/luogu.dir/T320772.cpp.o CMakeFiles/luogu.dir/T320791.cpp.o CMakeFiles/luogu.dir/U282420.cpp.o CMakeFiles/luogu.dir/AT_abc389_c.cpp.o CMakeFiles/luogu.dir/AT_abc404_C.cpp.o CMakeFiles/luogu.dir/P1330.cpp.o CMakeFiles/luogu.dir/U433472.cpp.o CMakeFiles/luogu.dir/AT_abc270_c.cpp.o CMakeFiles/luogu.dir/B4016.cpp.o CMakeFiles/luogu.dir/AT_abc361_e.cpp.o CMakeFiles/luogu.dir/P11378.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_a.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_b.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_c.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_d.cpp.o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_e.cpp.o CMakeFiles/luogu.dir/P10722.cpp.o CMakeFiles/luogu.dir/P10109.cpp.o CMakeFiles/luogu.dir/P11962.cpp.o CMakeFiles/luogu.dir/P10378.cpp.o CMakeFiles/luogu.dir/P13016.cpp.o CMakeFiles/luogu.dir/P14076.cpp.o CMakeFiles/luogu.dir/P14077.cpp.o CMakeFiles/luogu.dir/U628622.cpp.o CMakeFiles/luogu.dir/P1144.cpp.o CMakeFiles/luogu.dir/AT_abc376_d.cpp.o CMakeFiles/luogu.dir/U554341.cpp.o CMakeFiles/luogu.dir/U445086.cpp.o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_a.cpp.o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_b.cpp.o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_c.cpp.o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_d.cpp.o CMakeFiles/luogu.dir/P5663.cpp.o CMakeFiles/luogu.dir/P10723.cpp.o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_A.cpp.o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_b.cpp.o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_c.cpp.o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_d.cpp.o CMakeFiles/luogu.dir/P1216.cpp.o CMakeFiles/luogu.dir/U509740.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_c.cpp.o CMakeFiles/luogu.dir/AT_abc365_d.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_d.cpp.o CMakeFiles/luogu.dir/U478177.cpp.o CMakeFiles/luogu.dir/U624707.cpp.o CMakeFiles/luogu.dir/P14075.cpp.o CMakeFiles/luogu.dir/P13015.cpp.o CMakeFiles/luogu.dir/P11963.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_e.cpp.o CMakeFiles/luogu.dir/B3644.cpp.o CMakeFiles/luogu.dir/P2712.cpp.o CMakeFiles/luogu.dir/P1807.cpp.o CMakeFiles/luogu.dir/AT_abc238_e.cpp.o CMakeFiles/luogu.dir/P11280.cpp.o CMakeFiles/luogu.dir/AT_abc368_d.cpp.o CMakeFiles/luogu.dir/AT_abc373_d.cpp.o CMakeFiles/luogu.dir/atcoder_abc_438/AT_abc438_a.cpp.o CMakeFiles/luogu.dir/P3916.cpp.o CMakeFiles/luogu.dir/B3637.cpp.o CMakeFiles/luogu.dir/U522833.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_f.cpp.o CMakeFiles/luogu.dir/AT_abc291_d.cpp.o CMakeFiles/luogu.dir/AT_abc306_d.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_a.cpp.o CMakeFiles/luogu.dir/AT_abc266_d.cpp.o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_a.cpp.o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_b.cpp.o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_c.cpp.o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_d.cpp.o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_e.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_h.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_b.cpp.o CMakeFiles/luogu.dir/U525270.cpp.o CMakeFiles/luogu.dir/T376044.cpp.o CMakeFiles/luogu.dir/T370645.cpp.o CMakeFiles/luogu.dir/T376050.cpp.o CMakeFiles/luogu.dir/T376052.cpp.o CMakeFiles/luogu.dir/P1077.cpp.o CMakeFiles/luogu.dir/P1507.cpp.o CMakeFiles/luogu.dir/T376048.cpp.o CMakeFiles/luogu.dir/T376053.cpp.o CMakeFiles/luogu.dir/T376047.cpp.o CMakeFiles/luogu.dir/T376051.cpp.o CMakeFiles/luogu.dir/U409376.cpp.o CMakeFiles/luogu.dir/P1164.cpp.o CMakeFiles/luogu.dir/P1616.cpp.o CMakeFiles/luogu.dir/P2725.cpp.o CMakeFiles/luogu.dir/P2722.cpp.o CMakeFiles/luogu.dir/AT_abc364_e.cpp.o CMakeFiles/luogu.dir/P1049.cpp.o CMakeFiles/luogu.dir/P1679.cpp.o CMakeFiles/luogu.dir/P1832.cpp.o CMakeFiles/luogu.dir/P1926.cpp.o CMakeFiles/luogu.dir/P1575.cpp.o CMakeFiles/luogu.dir/AT_abc321_f.cpp.o CMakeFiles/luogu.dir/P3371.cpp.o CMakeFiles/luogu.dir/P3385.cpp.o CMakeFiles/luogu.dir/U447511.cpp.o CMakeFiles/luogu.dir/P1339.cpp.o CMakeFiles/luogu.dir/P1828.cpp.o CMakeFiles/luogu.dir/P4141.cpp.o CMakeFiles/luogu.dir/U447845.cpp.o CMakeFiles/luogu.dir/B3647.cpp.o CMakeFiles/luogu.dir/B3611.cpp.o CMakeFiles/luogu.dir/P2419.cpp.o CMakeFiles/luogu.dir/P6175.cpp.o CMakeFiles/luogu.dir/AT_abc243_e.cpp.o CMakeFiles/luogu.dir/P1119.cpp.o CMakeFiles/luogu.dir/AT_abc375_f.cpp.o CMakeFiles/luogu.dir/P3905.cpp.o CMakeFiles/luogu.dir/normal_dijkstra.cpp.o CMakeFiles/luogu.dir/P4779.cpp.o CMakeFiles/luogu.dir/P3003.cpp.o CMakeFiles/luogu.dir/U632129.cpp.o CMakeFiles/luogu.dir/AT_abc395_e.cpp.o CMakeFiles/luogu.dir/AT_abc277_e.cpp.o CMakeFiles/luogu.dir/P4568.cpp.o CMakeFiles/luogu.dir/P2865.cpp.o CMakeFiles/luogu.dir/P3008.cpp.o CMakeFiles/luogu.dir/AT_abc164_e.cpp.o CMakeFiles/luogu.dir/AT_abc305_f.cpp.o CMakeFiles/luogu.dir/AT_abc303_e.cpp.o CMakeFiles/luogu.dir/AT_abc354_c.cpp.o CMakeFiles/luogu.dir/AT_abc364_c.cpp.o CMakeFiles/luogu.dir/AT_abc370_c.cpp.o CMakeFiles/luogu.dir/U524631.cpp.o CMakeFiles/luogu.dir/U524656.cpp.o CMakeFiles/luogu.dir/P2249.cpp.o CMakeFiles/luogu.dir/U447586.cpp.o CMakeFiles/luogu.dir/P14920.cpp.o CMakeFiles/luogu.dir/huffman.cpp.o CMakeFiles/luogu.dir/kruskal.cpp.o CMakeFiles/luogu.dir/binary_search_tree.cpp.o CMakeFiles/luogu.dir/grey_code.cpp.o CMakeFiles/luogu.dir/P1352.cpp.o CMakeFiles/luogu.dir/P1122.cpp.o CMakeFiles/luogu.dir/P14919.cpp.o CMakeFiles/luogu.dir/AT_abc448_d.cpp.o CMakeFiles/luogu.dir/P11248.cpp.o CMakeFiles/luogu.dir/P11375.cpp.o CMakeFiles/luogu.dir/P11246.cpp.o CMakeFiles/luogu.dir/P10377.cpp.o CMakeFiles/luogu.dir/P10250.cpp.o CMakeFiles/luogu.dir/P10262.cpp.o CMakeFiles/luogu.dir/unknown_gesp20260301.cpp.o CMakeFiles/luogu.dir/P15801.cpp.o CMakeFiles/luogu.dir/P2016.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_p.cpp.o CMakeFiles/luogu.dir/P2458.cpp.o CMakeFiles/luogu.dir/U510996.cpp.o CMakeFiles/luogu.dir/P3478.cpp.o CMakeFiles/luogu.dir/P2986.cpp.o CMakeFiles/luogu.dir/P10962.cpp.o CMakeFiles/luogu.dir/P3047.cpp.o CMakeFiles/luogu.dir/P10974.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_i.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_j.cpp.o CMakeFiles/luogu.dir/codeforce/CF104396F.cpp.o CMakeFiles/luogu.dir/codeforce/CF24D.cpp.o CMakeFiles/luogu.dir/UVA11021.cpp.o CMakeFiles/luogu.dir/P2014.cpp.o CMakeFiles/luogu.dir/P1273.cpp.o CMakeFiles/luogu.dir/P2015.cpp.o CMakeFiles/luogu.dir/P9414.cpp.o CMakeFiles/luogu.dir/P1131.cpp.o CMakeFiles/luogu.dir/AT_abc239_e.cpp.o CMakeFiles/luogu.dir/AT_abc259_f.cpp.o CMakeFiles/luogu.dir/P13085.cpp.o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_s.cpp.o CMakeFiles/luogu.dir/U584945.cpp.o CMakeFiles/luogu.dir/T322620.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   OBJECT_DIR = CMakeFiles/luogu.dir
   POST_BUILD = :

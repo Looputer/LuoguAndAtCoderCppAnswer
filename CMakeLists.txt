@@ -205,4 +205,13 @@ add_executable(luogu U300331.cpp
         UVA11021.cpp
         P2014.cpp
         P1273.cpp
+        P2015.cpp
+        P9414.cpp
+        P1131.cpp
+        AT_abc239_e.cpp
+        AT_abc259_f.cpp
+        P13085.cpp
+        "atcoder dp/AT_dp_s.cpp"
+        U584945.cpp
+        T322620.cpp
 )
