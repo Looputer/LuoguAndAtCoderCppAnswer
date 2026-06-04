@@ -15,13 +15,6 @@ signed main() {
     cin >> n;
     for (int i = 1; i <= n; i++) cin >> a[i], dp[i] = a[i];
     for (int i = 1; i <= n; i++) cin >> b[i];
-    // for (int i = 1; i <= n; i++) {
-    //     dp[i] = a[i];
-    //     for (int j = 1; j < i; j++) {
-    //         if (j + b[j] <= i)
-    //             dp[i] = max(dp[i], dp[j] + a[i]);
-    //     }
-    // }
     for (int i = 1; i <= n; i++) {
         if (i + b[i] <= n)
             dp[i + b[i]] = max(dp[i + b[i]], dp[i] + a[i + b[i]]);
