@@ -1,44 +1,49 @@
 #include <iostream>
 #include <vector>
+#define int long long
 using namespace std;
 
 const int MaxN = 1e5+5;
+int n, q;
 vector<int> edge[MaxN];
-int cnt[MaxN], col[MaxN], ans[MaxN], n;
+int col[MaxN], father[MaxN];
+string s;
+int cnt[MaxN];
 
 void dfs(int u, int sum) {
     sum += cnt[u];
-    int c = col[u];
-    if (sum % 2) c ^= 1;
-    ans[u] = c;
-    for (auto v: edge[u]) {
+    if (sum % 2) col[u] ^= 1;
+    for (auto v : edge[u]) {
         dfs(v, sum);
     }
 }
 
 signed main() {
-    ios::sync_with_stdio(0);
+    ios::sync_with_stdio(false);
     cin.tie(0);
     cin >> n;
     for (int i = 1; i < n; i++) {
-        int v;
-        cin >> v;
-        edge[v].push_back(i+1);
+        int x;
+        cin >> x;
+        edge[x].push_back(i+1);
+        father[i+1] = x;
     }
-    string s;
     cin >> s;
-    for (int i = 1; i <= n; i++) col[i] = s[i-1] - '0';
-    int q;
+    int idx = 1;
+    for (auto ch : s) {
+        int x = ch - '0';
+        col[idx] = x;
+        idx++;
+    }
     cin >> q;
     while (q--) {
-        int a;
-        cin >> a;
-        cnt[a]++;
+        int op;
+        cin >> op;
+        cnt[op]++;
     }
     dfs(1, 0);
     for (int i = 1; i <= n; i++) {
-        cout << ans[i];
+        cout << col[i];
     }
 
-    return 0;
 }
