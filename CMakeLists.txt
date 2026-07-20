@@ -175,7 +175,6 @@ add_executable(luogu U300331.cpp
         P14920.cpp
         huffman.cpp
         kruskal.cpp
-        binary_search_tree.cpp
         grey_code.cpp
         P1352.cpp
         P1122.cpp
@@ -187,7 +186,6 @@ add_executable(luogu U300331.cpp
         P10377.cpp
         P10250.cpp
         P10262.cpp
-        unknown_gesp20260301.cpp
         P15801.cpp
         P2016.cpp
         "atcoder dp/AT_dp_p.cpp"
@@ -214,4 +212,8 @@ add_executable(luogu U300331.cpp
         "atcoder dp/AT_dp_s.cpp"
         U584945.cpp
         T322620.cpp
+        AT_abc170_e.cpp
+        AT_abc338_c.cpp
+        AT_abc278_d.cpp
+        T419007.cpp
 )

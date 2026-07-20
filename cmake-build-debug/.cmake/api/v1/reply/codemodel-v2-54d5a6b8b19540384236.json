@@ -2,11 +2,12 @@
 	"configurations" : 
 	[
 		{
+			"abstractTargets" : [],
 			"directories" : 
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.31"
@@ -39,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "luogu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-luogu-Debug-a064ffc7d7a67dfe286b.json",
+					"jsonFile" : "target-luogu-Debug-e97b8910b8541ea62698.json",
 					"name" : "luogu",
 					"projectIndex" : 0
 				}
@@ -55,6 +56,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 9
 	}
 }

@@ -1,0 +1,1268 @@
+[
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U300331.cpp.o -c /Users/luyichen/CLionProjects/luogu/U300331.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U300331.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U300331.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U300333.cpp.o -c /Users/luyichen/CLionProjects/luogu/U300333.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U300333.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U300333.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U300336.cpp.o -c /Users/luyichen/CLionProjects/luogu/U300336.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U300336.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U300336.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U300329.cpp.o -c /Users/luyichen/CLionProjects/luogu/U300329.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U300329.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U300329.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U301629.cpp.o -c /Users/luyichen/CLionProjects/luogu/U301629.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U301629.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U301629.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U301632.cpp.o -c /Users/luyichen/CLionProjects/luogu/U301632.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U301632.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U301632.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U306965.cpp.o -c /Users/luyichen/CLionProjects/luogu/U306965.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U306965.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U306965.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1464.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1464.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1464.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1464.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1596.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1596.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1596.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1596.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U303042.cpp.o -c /Users/luyichen/CLionProjects/luogu/U303042.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U303042.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U303042.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1825.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1825.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1825.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1825.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc383_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc383_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc383_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc383_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1588.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1588.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1588.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1588.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc405_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc405_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc405_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc405_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U303045.cpp.o -c /Users/luyichen/CLionProjects/luogu/U303045.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U303045.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U303045.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14360.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14360.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14360.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14360.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14357.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14357.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14357.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14357.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U308328.cpp.o -c /Users/luyichen/CLionProjects/luogu/U308328.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U308328.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U308328.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U308329.cpp.o -c /Users/luyichen/CLionProjects/luogu/U308329.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U308329.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U308329.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14358.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14358.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14358.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14358.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U308330.cpp.o -c /Users/luyichen/CLionProjects/luogu/U308330.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U308330.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U308330.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U308331.cpp.o -c /Users/luyichen/CLionProjects/luogu/U308331.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U308331.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U308331.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2367.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2367.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2367.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2367.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc408_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc408_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc408_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc408_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B4192.cpp.o -c /Users/luyichen/CLionProjects/luogu/B4192.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B4192.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B4192.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P5117.cpp.o -c /Users/luyichen/CLionProjects/luogu/P5117.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P5117.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P5117.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc356_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc356_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc356_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc356_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc367_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc367_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc367_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc367_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3623.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3623.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3623.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3623.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U303047.cpp.o -c /Users/luyichen/CLionProjects/luogu/U303047.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U303047.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U303047.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U303046.cpp.o -c /Users/luyichen/CLionProjects/luogu/U303046.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U303046.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U303046.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2036.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2036.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2036.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2036.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1706.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1706.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1706.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1706.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U303048.cpp.o -c /Users/luyichen/CLionProjects/luogu/U303048.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U303048.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U303048.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3643.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3643.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3643.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3643.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T320770.cpp.o -c /Users/luyichen/CLionProjects/luogu/T320770.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T320770.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T320770.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T320773.cpp.o -c /Users/luyichen/CLionProjects/luogu/T320773.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T320773.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T320773.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T320774.cpp.o -c /Users/luyichen/CLionProjects/luogu/T320774.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T320774.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T320774.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T320772.cpp.o -c /Users/luyichen/CLionProjects/luogu/T320772.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T320772.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T320772.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T320791.cpp.o -c /Users/luyichen/CLionProjects/luogu/T320791.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T320791.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T320791.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U282420.cpp.o -c /Users/luyichen/CLionProjects/luogu/U282420.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U282420.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U282420.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc389_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc389_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc389_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc389_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc404_C.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc404_C.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc404_C.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc404_C.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1330.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1330.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1330.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1330.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U433472.cpp.o -c /Users/luyichen/CLionProjects/luogu/U433472.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U433472.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U433472.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc270_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc270_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc270_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc270_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B4016.cpp.o -c /Users/luyichen/CLionProjects/luogu/B4016.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B4016.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B4016.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc361_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc361_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc361_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc361_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11378.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11378.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11378.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11378.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_a.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_a.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_a.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_a.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_b.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_b.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_b.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_b.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_c.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_c.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_d.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_d.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_e.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_e.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 435/AT_abc435_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_435/AT_abc435_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10722.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10722.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10722.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10722.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10109.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10109.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10109.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10109.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11962.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11962.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11962.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11962.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10378.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10378.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10378.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10378.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P13016.cpp.o -c /Users/luyichen/CLionProjects/luogu/P13016.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P13016.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P13016.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14076.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14076.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14076.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14076.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14077.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14077.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14077.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14077.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U628622.cpp.o -c /Users/luyichen/CLionProjects/luogu/U628622.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U628622.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U628622.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1144.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1144.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1144.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1144.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc376_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc376_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc376_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc376_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U554341.cpp.o -c /Users/luyichen/CLionProjects/luogu/U554341.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U554341.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U554341.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U445086.cpp.o -c /Users/luyichen/CLionProjects/luogu/U445086.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U445086.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U445086.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_a.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_a.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_a.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_a.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_b.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_b.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_b.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_b.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_c.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_c.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_d.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_d.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 436/AT_abc436_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_436/AT_abc436_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P5663.cpp.o -c /Users/luyichen/CLionProjects/luogu/P5663.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P5663.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P5663.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10723.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10723.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10723.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10723.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_A.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_A.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_A.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_A.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_b.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_b.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_b.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_b.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_c.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_c.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_d.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_d.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 437/AT_abc437_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_437/AT_abc437_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1216.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1216.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1216.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1216.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U509740.cpp.o -c /Users/luyichen/CLionProjects/luogu/U509740.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U509740.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U509740.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_c.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_c.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc365_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc365_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc365_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc365_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_d.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_d.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U478177.cpp.o -c /Users/luyichen/CLionProjects/luogu/U478177.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U478177.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U478177.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U624707.cpp.o -c /Users/luyichen/CLionProjects/luogu/U624707.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U624707.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U624707.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14075.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14075.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14075.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14075.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P13015.cpp.o -c /Users/luyichen/CLionProjects/luogu/P13015.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P13015.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P13015.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11963.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11963.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11963.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11963.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_e.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_e.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3644.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3644.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3644.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3644.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2712.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2712.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2712.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2712.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1807.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1807.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1807.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1807.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc238_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc238_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc238_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc238_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11280.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11280.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11280.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11280.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc368_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc368_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc368_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc368_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc373_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc373_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc373_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc373_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_438/AT_abc438_a.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 438/AT_abc438_a.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 438/AT_abc438_a.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_438/AT_abc438_a.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3916.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3916.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3916.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3916.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3637.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3637.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3637.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3637.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U522833.cpp.o -c /Users/luyichen/CLionProjects/luogu/U522833.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U522833.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U522833.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_f.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_f.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_f.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_f.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc291_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc291_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc291_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc291_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc306_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc306_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc306_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc306_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_a.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_a.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_a.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_a.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc266_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc266_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc266_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc266_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_a.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_a.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_a.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_a.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_b.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_b.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_b.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_b.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_c.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_c.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_d.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_d.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_e.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_e.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder abc 439/AT_abc439_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_abc_439/AT_abc439_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_h.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_h.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_h.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_h.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_b.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_b.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_b.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_b.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U525270.cpp.o -c /Users/luyichen/CLionProjects/luogu/U525270.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U525270.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U525270.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376044.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376044.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376044.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376044.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T370645.cpp.o -c /Users/luyichen/CLionProjects/luogu/T370645.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T370645.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T370645.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376050.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376050.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376050.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376050.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376052.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376052.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376052.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376052.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1077.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1077.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1077.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1077.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1507.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1507.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1507.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1507.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376048.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376048.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376048.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376048.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376053.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376053.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376053.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376053.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376047.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376047.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376047.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376047.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T376051.cpp.o -c /Users/luyichen/CLionProjects/luogu/T376051.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T376051.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T376051.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U409376.cpp.o -c /Users/luyichen/CLionProjects/luogu/U409376.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U409376.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U409376.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1164.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1164.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1164.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1164.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1616.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1616.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1616.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1616.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2725.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2725.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2725.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2725.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2722.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2722.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2722.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2722.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc364_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc364_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc364_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc364_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1049.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1049.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1049.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1049.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1679.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1679.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1679.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1679.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1832.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1832.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1832.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1832.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1926.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1926.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1926.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1926.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1575.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1575.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1575.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1575.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc321_f.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc321_f.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc321_f.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc321_f.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3371.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3371.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3371.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3371.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3385.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3385.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3385.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3385.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U447511.cpp.o -c /Users/luyichen/CLionProjects/luogu/U447511.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U447511.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U447511.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1339.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1339.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1339.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1339.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1828.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1828.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1828.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1828.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P4141.cpp.o -c /Users/luyichen/CLionProjects/luogu/P4141.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P4141.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P4141.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U447845.cpp.o -c /Users/luyichen/CLionProjects/luogu/U447845.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U447845.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U447845.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3647.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3647.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3647.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3647.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/B3611.cpp.o -c /Users/luyichen/CLionProjects/luogu/B3611.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/B3611.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/B3611.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2419.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2419.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2419.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2419.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P6175.cpp.o -c /Users/luyichen/CLionProjects/luogu/P6175.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P6175.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P6175.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc243_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc243_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc243_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc243_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1119.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1119.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1119.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1119.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc375_f.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc375_f.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc375_f.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc375_f.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3905.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3905.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3905.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3905.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/normal_dijkstra.cpp.o -c /Users/luyichen/CLionProjects/luogu/normal_dijkstra.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/normal_dijkstra.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/normal_dijkstra.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P4779.cpp.o -c /Users/luyichen/CLionProjects/luogu/P4779.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P4779.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P4779.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3003.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3003.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3003.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3003.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U632129.cpp.o -c /Users/luyichen/CLionProjects/luogu/U632129.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U632129.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U632129.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc395_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc395_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc395_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc395_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc277_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc277_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc277_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc277_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P4568.cpp.o -c /Users/luyichen/CLionProjects/luogu/P4568.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P4568.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P4568.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2865.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2865.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2865.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2865.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3008.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3008.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3008.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3008.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc164_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc164_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc164_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc164_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc305_f.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc305_f.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc305_f.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc305_f.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc303_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc303_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc303_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc303_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc354_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc354_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc354_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc354_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc364_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc364_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc364_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc364_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc370_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc370_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc370_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc370_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U524631.cpp.o -c /Users/luyichen/CLionProjects/luogu/U524631.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U524631.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U524631.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U524656.cpp.o -c /Users/luyichen/CLionProjects/luogu/U524656.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U524656.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U524656.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2249.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2249.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2249.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2249.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U447586.cpp.o -c /Users/luyichen/CLionProjects/luogu/U447586.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U447586.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U447586.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14920.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14920.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14920.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14920.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/huffman.cpp.o -c /Users/luyichen/CLionProjects/luogu/huffman.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/huffman.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/huffman.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/kruskal.cpp.o -c /Users/luyichen/CLionProjects/luogu/kruskal.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/kruskal.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/kruskal.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/grey_code.cpp.o -c /Users/luyichen/CLionProjects/luogu/grey_code.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/grey_code.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/grey_code.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1352.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1352.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1352.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1352.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1122.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1122.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1122.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1122.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P14919.cpp.o -c /Users/luyichen/CLionProjects/luogu/P14919.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P14919.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P14919.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc448_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc448_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc448_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc448_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11248.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11248.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11248.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11248.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11375.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11375.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11375.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11375.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P11246.cpp.o -c /Users/luyichen/CLionProjects/luogu/P11246.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P11246.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P11246.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10377.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10377.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10377.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10377.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10250.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10250.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10250.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10250.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10262.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10262.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10262.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10262.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P15801.cpp.o -c /Users/luyichen/CLionProjects/luogu/P15801.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P15801.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P15801.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2016.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2016.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2016.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2016.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_p.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_p.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_p.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_p.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2458.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2458.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2458.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2458.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U510996.cpp.o -c /Users/luyichen/CLionProjects/luogu/U510996.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U510996.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U510996.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3478.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3478.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3478.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3478.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2986.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2986.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2986.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2986.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10962.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10962.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10962.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10962.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P3047.cpp.o -c /Users/luyichen/CLionProjects/luogu/P3047.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P3047.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P3047.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P10974.cpp.o -c /Users/luyichen/CLionProjects/luogu/P10974.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P10974.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P10974.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_i.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_i.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_i.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_i.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_j.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_j.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_j.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_j.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/codeforce/CF104396F.cpp.o -c /Users/luyichen/CLionProjects/luogu/codeforce/CF104396F.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/codeforce/CF104396F.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/codeforce/CF104396F.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/codeforce/CF24D.cpp.o -c /Users/luyichen/CLionProjects/luogu/codeforce/CF24D.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/codeforce/CF24D.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/codeforce/CF24D.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/UVA11021.cpp.o -c /Users/luyichen/CLionProjects/luogu/UVA11021.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/UVA11021.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/UVA11021.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2014.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2014.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2014.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2014.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1273.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1273.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1273.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1273.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P2015.cpp.o -c /Users/luyichen/CLionProjects/luogu/P2015.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P2015.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P2015.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P9414.cpp.o -c /Users/luyichen/CLionProjects/luogu/P9414.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P9414.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P9414.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P1131.cpp.o -c /Users/luyichen/CLionProjects/luogu/P1131.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P1131.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1131.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc239_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc239_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc239_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc239_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc259_f.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc259_f.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc259_f.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc259_f.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/P13085.cpp.o -c /Users/luyichen/CLionProjects/luogu/P13085.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/P13085.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P13085.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/atcoder_dp/AT_dp_s.cpp.o -c \"/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_s.cpp\"",
+  "file": "/Users/luyichen/CLionProjects/luogu/atcoder dp/AT_dp_s.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/atcoder_dp/AT_dp_s.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/U584945.cpp.o -c /Users/luyichen/CLionProjects/luogu/U584945.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/U584945.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/U584945.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T322620.cpp.o -c /Users/luyichen/CLionProjects/luogu/T322620.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T322620.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T322620.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc170_e.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc170_e.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc170_e.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc170_e.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc338_c.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc338_c.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc338_c.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc338_c.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/AT_abc278_d.cpp.o -c /Users/luyichen/CLionProjects/luogu/AT_abc278_d.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/AT_abc278_d.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/AT_abc278_d.cpp.o"
+},
+{
+  "directory": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/luogu.dir/T419007.cpp.o -c /Users/luyichen/CLionProjects/luogu/T419007.cpp",
+  "file": "/Users/luyichen/CLionProjects/luogu/T419007.cpp",
+  "output": "/Users/luyichen/CLionProjects/luogu/cmake-build-debug/CMakeFiles/luogu.dir/T419007.cpp.o"
+}
+]

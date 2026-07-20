@@ -29,13 +29,18 @@
 			}
 		]
 	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
 	"compileGroups" : 
 	[
 		{
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++20 -arch arm64 -fcolor-diagnostics"
 				}
 			],
 			"language" : "CXX",
@@ -257,7 +262,9 @@
 				206,
 				207,
 				208,
-				209
+				209,
+				210,
+				211
 			]
 		}
 	],
@@ -271,7 +278,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-Wl,-search_paths_first -Wl,-headerpad_max_install_names",
 				"role" : "flags"
 			}
 		],
@@ -498,7 +505,9 @@
 				206,
 				207,
 				208,
-				209
+				209,
+				210,
+				211
 			]
 		},
 		{
@@ -1539,12 +1548,6 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "binary_search_tree.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
 			"path" : "grey_code.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -1606,12 +1609,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "P10262.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "unknown_gesp20260301.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1768,6 +1765,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "T322620.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "AT_abc170_e.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "AT_abc338_c.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "AT_abc278_d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "T419007.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
