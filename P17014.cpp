@@ -4,15 +4,39 @@
 using namespace std;
 
 const int MaxN = 1e5+5;
-vector<int> edge[MaxN];
-int col[MaxN], ans = 2;
-int t, n;
+int t, n, p[MaxN], sz[MaxN];
 
-void dfs(int u, int c) {
-    col[u] = c;
-    for (auto v : edge[u]) {
-        if (col[v] == 0) dfs(v, 3 - c);
-        else if (col[v] == col[u]) ans = 3;
+int pfind(int x) {
+    if (x == p[x]) return x;
+    return p[x] = pfind(p[x]);
+}
+
+void solve() {
+    cin >> n;
+    for (int i = 1; i <= n; i++) {
+        p[i] = i, sz[i] = 1;
     }
+    for (int i = 1; i <= n; i++) {
+        int u, v;
+        cin >> u >> v;
+        int pu = pfind(u), pv = pfind(v);
+        if (pu == pv) continue;
+        sz[pv] += sz[pu];
+        p[pu] = pv;
+    }
+    int ans = 2;
+    for (int i = 1; i <= n; i++)
+        if (pfind(i) == i && sz[i] & 1) ans = 3;
+    cout << ans << endl;
+}
+
+signed main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+
 }
 

@@ -19,10 +19,10 @@ signed main() {
         int x;
         cin >> query >> x;
         if (query == '+') {
-            for (int j = 5000; j >= x; j--) dp[j] = (dp[j] + dp[j - x]) % MOD;
+            for (int j = 5000; j >= x; j--) dp[j] = dp[j] + dp[j - x];
         }
         else {
-            for (int j = x; j <= 5000; j++) dp[j] = (dp[j] - dp[j - x] + MOD) % MOD;
+            for (int j = x; j <= 5000; j++) dp[j] = dp[j] - dp[j - x];
         }
         cout << dp[k] << endl;
     }
